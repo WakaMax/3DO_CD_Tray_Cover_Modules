@@ -3,8 +3,6 @@
 
 3D modules 
 
-I will test it in a few days
+I have tested them
 
-have no idea wether this module is available or not
-
-Waiting for the response
+Not bad
